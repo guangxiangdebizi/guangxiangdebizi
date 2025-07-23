@@ -47,18 +47,18 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guangxiangdebizi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiangdebizi&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guangxiangdebizi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiangdebizi&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guangxiangdebizi&theme=radical" alt="guangxiangdebizi" />
+  <img src="https://streak-stats.demolab.com/?user=guangxiangdebizi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub 成就
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guangxiangdebizi&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guangxiangdebizi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="Trophy" />
 </div>
 
 ## 🔥 项目亮点
@@ -75,7 +75,7 @@
 ## 📈 活动图表
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=guangxiangdebizi&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guangxiangdebizi&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🌐 联系我
