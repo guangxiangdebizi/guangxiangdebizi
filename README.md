@@ -13,6 +13,17 @@
 - 📫 How to reach me: guangxiangdebizi@gmail.com
 - ⚡ Fun fact: I love exploring new technologies and applying them to real-world projects
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guangxiangdebizi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiangdebizi&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=guangxiangdebizi&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -43,17 +54,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guangxiangdebizi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiangdebizi&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=guangxiangdebizi&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 🏆 GitHub Achievements
 
