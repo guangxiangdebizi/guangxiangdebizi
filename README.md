@@ -27,22 +27,19 @@
 ## ⭐ Top Repositories
 
 <div align="center">
-  <a href="https://github.com/guangxiangdebizi/finance-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=finance-mcp&theme=tokyonight&hide_border=true" alt="finance-mcp" />
-  </a>
-  <a href="https://github.com/guangxiangdebizi/MedicalKnowledgeGraph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=MedicalKnowledgeGraph&theme=tokyonight&hide_border=true" alt="MedicalKnowledgeGraph" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/guangxiangdebizi/guangxiangdebizi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=guangxiangdebizi&theme=tokyonight&hide_border=true" alt="guangxiangdebizi" />
   </a>
-  <a href="https://github.com/guangxiangdebizi/CURD-DEMO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=CURD-DEMO&theme=tokyonight&hide_border=true" alt="CURD-DEMO" />
+</div>
+
+<!-- 
+添加更多仓库卡片示例（把仓库名换成你实际的仓库）：
+<div align="center">
+  <a href="https://github.com/guangxiangdebizi/你的仓库名">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=你的仓库名&theme=tokyonight&hide_border=true" alt="你的仓库名" />
   </a>
 </div>
+-->
 
 ## 🛠️ Tech Stack
 
