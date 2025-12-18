@@ -1,46 +1,71 @@
 # 👋 Hi, I'm Xingyu Chen (陈星宇)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Open+Source+%26+Innovation+Lover;Student+at+Shanghai+University+of+Electric+Power&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%26+AI+Enthusiast;Open+Source+%26+Innovation+Lover;Student+at+Shanghai+University+of+Electric+Power&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 ## 🎯 About Me
 
-- 🔭 I'm currently focusing on **Artificial Intelligence** and **Machine Learning**
-- 🌱 I'm learning **Deep Learning**, **Natural Language Processing**, and **Computer Vision**
+- 🔭 I'm currently focusing on **Full Stack Development**, **Artificial Intelligence** and **Machine Learning**
+- 🌱 I'm learning **Deep Learning**, **Natural Language Processing**, **Computer Vision** and **Cloud Infrastructure**
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about **Python**, **AI/ML**, **Data Science**
+- 💬 Ask me about **Python**, **Node.js**, **TypeScript**, **AI/ML**, **DevOps**
 - 📫 How to reach me: guangxiangdebizi@gmail.com
 - ⚡ Fun fact: I love exploring new technologies and applying them to real-world projects
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guangxiangdebizi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiangdebizi&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guangxiangdebizi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiangdebizi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=guangxiangdebizi&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=guangxiangdebizi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!-- 备选Streak服务 -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=guangxiangdebizi&theme=dark&hide_border=true" alt="GitHub Streak" /> -->
-<!-- <img src="https://github-readme-streak-stats.vercel.app/?user=guangxiangdebizi&theme=dark&hide_border=true" alt="GitHub Streak" /> -->
+## ⭐ Top Repositories
+
+<div align="center">
+  <a href="https://github.com/guangxiangdebizi/finance-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=finance-mcp&theme=tokyonight&hide_border=true" alt="finance-mcp" />
+  </a>
+  <a href="https://github.com/guangxiangdebizi/MedicalKnowledgeGraph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=MedicalKnowledgeGraph&theme=tokyonight&hide_border=true" alt="MedicalKnowledgeGraph" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/guangxiangdebizi/guangxiangdebizi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=guangxiangdebizi&theme=tokyonight&hide_border=true" alt="guangxiangdebizi" />
+  </a>
+  <a href="https://github.com/guangxiangdebizi/CURD-DEMO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=CURD-DEMO&theme=tokyonight&hide_border=true" alt="CURD-DEMO" />
+  </a>
+</div>
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
+
+### Backend & Runtime
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=PM2&logoColor=white)
 
 ### AI/ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
@@ -52,17 +77,29 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+### DevOps & Infrastructure
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
+
+### Security & Networking
+![SSL/TLS](https://img.shields.io/badge/-SSL%2FTLS-721412?style=flat-square&logo=Let's-Encrypt&logoColor=white)
+![SSH](https://img.shields.io/badge/-SSH-4D4D4D?style=flat-square&logo=OpenSSH&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=Cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guangxiangdebizi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guangxiangdebizi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy" />
 </div>
 
 ## 🔥 Project Highlights
@@ -70,6 +107,12 @@
 ### 🤖 AI Projects
 - **Knowledge Graph & LLM Integration**: Building knowledge graphs with Neo4j and integrating large language models for intelligent Q&A
 - **Deep Learning Models**: Developing and optimizing various deep learning models for real-world applications
+- **Finance MCP Server**: Building financial data analysis tools with MCP protocol
+
+### 🌐 Full Stack Projects
+- **Web Applications**: Building modern web applications with Node.js, TypeScript and React
+- **API Development**: RESTful API design and implementation with FastAPI and Express
+- **Server Management**: Nginx configuration, SSL/TLS setup, and PM2 process management
 
 ### 📚 Learning Journey
 - Continuously learning cutting-edge AI technologies and algorithms
@@ -79,7 +122,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guangxiangdebizi&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guangxiangdebizi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🌐 Connect with Me
@@ -111,4 +154,4 @@
 
 <div align="center">
   ⭐️ If you find my projects interesting, please give them a star!
-</div> 
+</div>
