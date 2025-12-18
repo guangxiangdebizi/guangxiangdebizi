@@ -27,19 +27,31 @@
 ## ⭐ Top Repositories
 
 <div align="center">
-  <a href="https://github.com/guangxiangdebizi/guangxiangdebizi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=guangxiangdebizi&theme=tokyonight&hide_border=true" alt="guangxiangdebizi" />
+  <a href="https://github.com/guangxiangdebizi/FinanceMCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=FinanceMCP&theme=tokyonight&hide_border=true" alt="FinanceMCP" />
+  </a>
+  <a href="https://github.com/guangxiangdebizi/TradingAgents-MCPmode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=TradingAgents-MCPmode&theme=tokyonight&hide_border=true" alt="TradingAgents-MCPmode" />
   </a>
 </div>
 
-<!-- 
-添加更多仓库卡片示例（把仓库名换成你实际的仓库）：
 <div align="center">
-  <a href="https://github.com/guangxiangdebizi/你的仓库名">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=你的仓库名&theme=tokyonight&hide_border=true" alt="你的仓库名" />
+  <a href="https://github.com/guangxiangdebizi/QMT-MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=QMT-MCP&theme=tokyonight&hide_border=true" alt="QMT-MCP" />
+  </a>
+  <a href="https://github.com/guangxiangdebizi/MySQL_MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=MySQL_MCP&theme=tokyonight&hide_border=true" alt="MySQL_MCP" />
   </a>
 </div>
--->
+
+<div align="center">
+  <a href="https://github.com/guangxiangdebizi/ChatWebwithMCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=ChatWebwithMCP&theme=tokyonight&hide_border=true" alt="ChatWebwithMCP" />
+  </a>
+  <a href="https://github.com/guangxiangdebizi/FinanceMCP-DCTHS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=FinanceMCP-DCTHS&theme=tokyonight&hide_border=true" alt="FinanceMCP-DCTHS" />
+  </a>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -101,20 +113,20 @@
 
 ## 🔥 Project Highlights
 
-### 🤖 AI Projects
-- **Knowledge Graph & LLM Integration**: Building knowledge graphs with Neo4j and integrating large language models for intelligent Q&A
-- **Deep Learning Models**: Developing and optimizing various deep learning models for real-world applications
-- **Finance MCP Server**: Building financial data analysis tools with MCP protocol
+### 💰 MCP & Finance Projects
+- **[FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP)** - 金融数据 MCP 服务器，集成 Tushare & Binance API，支持股票、基金、债券、加密货币等多维度分析 ⭐ 340+
+- **[TradingAgents-MCPmode](https://github.com/guangxiangdebizi/TradingAgents-MCPmode)** - 多智能体交易分析系统，实现智能化股票分析和交易决策 ⭐ 170+
+- **[QMT-MCP](https://github.com/guangxiangdebizi/QMT-MCP)** - 模块化量化交易助手，支持期权、期货、股票交易 ⭐ 60+
 
-### 🌐 Full Stack Projects
-- **Web Applications**: Building modern web applications with Node.js, TypeScript and React
-- **API Development**: RESTful API design and implementation with FastAPI and Express
-- **Server Management**: Nginx configuration, SSL/TLS setup, and PM2 process management
+### 🤖 AI & Tools
+- **[MySQL_MCP](https://github.com/guangxiangdebizi/MySQL_MCP)** - 让 AI 直接操作 MySQL 数据库的 MCP 服务器
+- **[ChatWebwithMCP](https://github.com/guangxiangdebizi/ChatWebwithMCP)** - 基于 FastAPI 的智能助手 Web 应用，支持 MCP 工具调用
+- **[China-Central-Policy-MCP](https://github.com/guangxiangdebizi/China-Central-Policy-MCP)** - 国务院政策检索与解析 MCP 服务器
 
-### 📚 Learning Journey
-- Continuously learning cutting-edge AI technologies and algorithms
-- Contributing to open source projects
-- Sharing technical blogs and learning insights
+### 📚 Open Source Contributions
+- 专注于 MCP (Model Context Protocol) 生态开发
+- 62 个公开仓库，累计获得数百 Stars
+- 持续探索 AI + 金融的创新应用场景
 
 ## 📈 Activity Graph
 
