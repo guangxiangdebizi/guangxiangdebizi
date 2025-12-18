@@ -44,15 +44,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/guangxiangdebizi/ChatWebwithMCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=ChatWebwithMCP&theme=tokyonight&hide_border=true" alt="ChatWebwithMCP" />
-  </a>
-  <a href="https://github.com/guangxiangdebizi/FinanceMCP-DCTHS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guangxiangdebizi&repo=FinanceMCP-DCTHS&theme=tokyonight&hide_border=true" alt="FinanceMCP-DCTHS" />
-  </a>
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
