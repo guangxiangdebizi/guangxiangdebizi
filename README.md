@@ -33,9 +33,9 @@
 
 | Area | Projects |
 | --- | --- |
-| Financial Data & Quant Research | **[FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP)** · **[TradingAgents-MCPmode](https://github.com/guangxiangdebizi/TradingAgents-MCPmode)** · **[QMT-MCP](https://github.com/guangxiangdebizi/QMT-MCP)** |
+| Financial Data & Quant Research | **[FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP)** · **[TradingAgents-MCPmode](https://github.com/guangxiangdebizi/TradingAgents-MCPmode)** · **[QMT-MCP](https://github.com/guangxiangdebizi/QMT-MCP)** · **[bigqmt-history-export](https://github.com/guangxiangdebizi/bigqmt-history-export)** |
 | Agent Safety | **[tool-output-spoofing-lab](https://github.com/guangxiangdebizi/tool-output-spoofing-lab)** |
-| Model Research | **[Dynamic MoE Notes](https://github.com/guangxiangdebizi/dynamic-moe-reading-notes)** · **[Qwen LoRA](https://github.com/guangxiangdebizi/LoRA-qwen3.5-27b-v2)** · **[LLM Memory](https://github.com/guangxiangdebizi/aimemory)** · **[Image Tokenization](https://github.com/guangxiangdebizi/image-tokenization-explained)** |
+| Model Research | **[qwen3.8-research](https://github.com/guangxiangdebizi/qwen3.8-research)** · **[Dynamic MoE Notes](https://github.com/guangxiangdebizi/dynamic-moe-reading-notes)** · **[Qwen LoRA](https://github.com/guangxiangdebizi/LoRA-qwen3.5-27b-v2)** · **[LLM Memory](https://github.com/guangxiangdebizi/aimemory)** · **[Image Tokenization](https://github.com/guangxiangdebizi/image-tokenization-explained)** |
 | Product | **[littletask](https://github.com/guangxiangdebizi/littletask)** · **[Dolphin ClinReviewPlatform](https://dolphincr.com/)** |
 | Developer Tools | **[md2docx](https://github.com/guangxiangdebizi/md2docx)** · **[Tencent Meeting AI Notes](https://github.com/guangxiangdebizi/tencent-meeting-ai-notes-skill)** |
 
