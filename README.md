@@ -26,14 +26,14 @@
 
 - **Agent systems:** LangChain, LangGraph, MCP, RAG, tool security, and production backends.
 - **Model research:** dynamic MoE routing, LoRA and model safety, long-term memory, and visual tokenization.
-- **Financial data tools:** market data access, technical indicators, and agent-assisted analysis workflows.
+- **Quantitative finance (in progress):** exploring market data, technical indicators, agent-assisted analysis, and QMT workflows.
 - **Product engineering:** clinical AI, React Native applications, and Python/Windows developer tools.
 
 ## 🚀 Selected Work
 
 | Area | Projects |
 | --- | --- |
-| Financial Data & Agents | **[FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP)** · **[TradingAgents-MCPmode](https://github.com/guangxiangdebizi/TradingAgents-MCPmode)** · **[QMT-MCP](https://github.com/guangxiangdebizi/QMT-MCP)** |
+| Financial Data & Quant Research | **[FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP)** · **[TradingAgents-MCPmode](https://github.com/guangxiangdebizi/TradingAgents-MCPmode)** · **[QMT-MCP](https://github.com/guangxiangdebizi/QMT-MCP)** |
 | Agent Safety | **[tool-output-spoofing-lab](https://github.com/guangxiangdebizi/tool-output-spoofing-lab)** |
 | Model Research | **[Dynamic MoE Notes](https://github.com/guangxiangdebizi/dynamic-moe-reading-notes)** · **[Qwen LoRA](https://github.com/guangxiangdebizi/LoRA-qwen3.5-27b-v2)** · **[LLM Memory](https://github.com/guangxiangdebizi/aimemory)** · **[Image Tokenization](https://github.com/guangxiangdebizi/image-tokenization-explained)** |
 | Product | **[littletask](https://github.com/guangxiangdebizi/littletask)** · **[Dolphin ClinReviewPlatform](https://dolphincr.com/)** |
@@ -77,7 +77,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Data & Tooling**
+**Data & Quant Tools**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
