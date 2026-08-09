@@ -18,9 +18,7 @@
 
 ## 👋 About
 
-- Data Science undergraduate at **Shanghai University of Electric Power**, with additional study in Finance at **Fudan University**.
-- Co-founder and Technical Lead at **[eForce Clinical](https://www.eforceclinical.com/)**, building **[Dolphin ClinReviewPlatform](https://dolphincr.com/)**.
-- Former LLM application engineering intern at **Sinolink Securities AI Lab** and **Shanghai Mengchuang**.
+Undergraduate student in **Data Science and Big Data Technology** at **Shanghai University of Electric Power**.
 
 ## 🔭 Focus
 
@@ -99,15 +97,9 @@
 ![TLS](https://img.shields.io/badge/TLS-721412?style=flat-square&logo=letsencrypt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🏆 Highlights
-
-- **2026 Shanghai College Student Computer Application Ability Competition — Second Prize**, FinanceMCP.
-- **2025 Alibaba Cloud / ModelScope MCP Competition — National Top 10 finalist**.
-- **2025 China Collegiate Computing Competition — Shanghai First Prize and national finalist**, YOLO-based tactile paving recognition.
-
 ## 🌱 Philosophy
 
-> **Slow is fast.** I use open source to improve myself first, then the people and systems around me. Step by step, I want those small changes to compound into a stronger ecosystem, broader shared understanding, and a meaningful contribution to human progress.
+> **Slow is fast.** I want to use open source to improve myself first, then help change the people and systems around me. Step by step, I hope those small changes can grow into a wider ecosystem, broaden shared understanding, and make a meaningful contribution to human progress.
 
 ---
 
